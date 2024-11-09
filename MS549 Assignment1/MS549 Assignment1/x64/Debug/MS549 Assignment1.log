@@ -1,0 +1,5 @@
+﻿  funtions.cpp
+C:\Users\Thugg Kawaii\source\repos\MS549 Assignment1\MS549 Assignment1\funtions.cpp(25,24): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  main.cpp
+  Generating Code...
+  MS549 Assignment1.vcxproj -> C:\Users\Thugg Kawaii\source\repos\MS549 Assignment1\x64\Debug\MS549 Assignment1.exe
