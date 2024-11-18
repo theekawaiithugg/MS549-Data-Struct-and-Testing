@@ -1,0 +1,3 @@
+﻿  sortingfiles.cpp
+C:\Users\Thugg Kawaii\source\repos\Assignment 3\Assignment 3\sortingfiles.cpp(15,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Assignment 3.vcxproj -> C:\Users\Thugg Kawaii\source\repos\Assignment 3\x64\Debug\Assignment 3.exe
